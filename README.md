@@ -1,6 +1,4 @@
-# event_planner
-
-An event planner
+# Event Planner System (EPS) App
 
 ## Overview
 
